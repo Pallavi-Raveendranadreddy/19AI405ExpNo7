@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3> NAME : vignesh R</h3>
-<h3> REG NO : 212223240177 </h3>
+<h3> NAME : VALASAREDDY PALLAVI</h3>
+<h3> REG NO : 212221240059 </h3>
 
 # Aim: 
 
